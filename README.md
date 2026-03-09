@@ -1,2 +1,2 @@
-# hello, thanks for buying paid version
+# hello, thanks for reading this
 executor supports this version: "rbx-version-template"
